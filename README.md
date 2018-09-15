@@ -1,10 +1,5 @@
 [Home](http://rocknrollinmyveins.tumblr.com) | [About Me](http://rocknrollinmyveins.tumblr.com/whoami) | [Navigation](http://rocknrollinmyveins.tumblr.com/navigation)
 
-
----
-title: This will be used as the title-tag of the page head
----
-
 hello
 =====
 ## So who am I? 
@@ -17,6 +12,6 @@ My name is Abbi.  I am a current generation classic rock addict.  My favorite ba
  
 ![image of Abbi](tumblr_inline_o9xah6Cf5V1tdruz4_500.jpg)
 
-## Me elsewhere
+# Me elsewhere
 
 This [tumblr](http://rocknrollinmyveins.tumblr.com) is also run by me. This website is a more professional webside. The link above is where I let my creativity side out, you get to see photos and videos of all the bands I love!
