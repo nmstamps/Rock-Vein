@@ -8,6 +8,6 @@ My name is Abbi.  I am a current generation classic rock addict.  My favorite ba
 [image of Abbi!](tumblr_inline_o9xah6Cf5V1tdruz4_500.jpg)
 ## Me elsewhere
 
-http://rocknrollinmyveins.tumblr.com
+[link to tumblr](http://rocknrollinmyveins.tumblr.com)
 
 This website is also run by me. This website is a more professional webside. The link above is where I let my creativity side out, you get to see photos and videos of all the bands I love!
