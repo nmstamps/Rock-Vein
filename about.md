@@ -1,3 +1,5 @@
+[Home](https://nmstamps.github.io/Rock-Vein/) | [About Me](about.md) | [Navigation](navigation.md)
+ 
 # So who IS rocknrollinmyveins anyway?
 
 ## Hello there! 
@@ -6,7 +8,7 @@ For those of you who are curious, this is a side page dedicated to the person be
 
 My name is Abbi.  I am a current generation classic rock addict.  My favorite bands include legends such as Def Leppard, Guns N’ Roses, Poison, Bon Jovi, Warrant, Ratt, Van Halen, Motley Crue, and so many more… If You haven’t figured it out by my fancy slideshow, I love Def Leppard just a *smidge* more than the others.
 
-Okay, they’re pretty much my life. Sue me.
+### Okay, they’re pretty much my life. Sue me.
 
 See, to a lot of people, I’m just a wannabe.  I was born in the wrong generation.  No, I didn’t see my favorite bands during their hey days.  I’m the kid who’s looking up whose lead singer is still alive so I can go catch a final tour before they settle into retirement.  I’m the kid who gets everyone’s old record collections that have been sitting in basements and garages for twenty-some years.  I’m the kid who stays up till two in the morning watching old MTV footage.
 
