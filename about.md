@@ -1,6 +1,6 @@
-#So who IS rocknrollinmyveins anyway?
+# So who IS rocknrollinmyveins anyway?
 
-##Hello there! 
+## Hello there! 
 
 For those of you who are curious, this is a side page dedicated to the person behind the computer screen.  
 
@@ -26,7 +26,7 @@ Rock ‘n’ roll is not dead.  Even when everyone is long gone and the stage li
 
 That’s what I stand for.  In a way, maybe even a weird way, I am rock n roll.  It literally feels like it courses through my veins.  Anyways…  Enjoy my blog. ^.^
 
-##P.S.,
+## P.S.,
 
 Recently I have begun an exciting endeavor!  I am an aspiring writer whose ultimate dream is to one day own/operate/write for her own classic rock magazine and *professional* blog.  I have begun the lengthy process of gathering information so I can begin stockpiling articles, but I need your help!  I need to know what my audience is interested in reading, not just what I myself feel like writing.
 
