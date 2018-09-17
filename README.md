@@ -1,4 +1,4 @@
-[Home](http://rocknrollinmyveins.tumblr.com) | [About Me](http://rocknrollinmyveins.tumblr.com/whoami) | [Navigation](http://rocknrollinmyveins.tumblr.com/navigation)
+[Home](https://nmstamps.github.io/Rock-Vein/) | [About Me](about.md) | [Navigation](navigation.md)
  
   
 hello
